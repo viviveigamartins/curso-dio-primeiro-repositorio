@@ -1,0 +1,10 @@
+Git clone = clona o repositorio
+cd nome da pasta = entra na pasta do repositorio criado
+git status = verifica o status e se existe algo que ainda nao foi p nuvem é informado de vermelho
+git add . = adiciona os itens criados
+git status =  após os itens criados vc consegue visualizar através do git status se as pastas ou arquivos estao criados fica verde. 
+git commit -m "descreva um comentario" = comita os dados no local
+git push origin main = sobe com os dados local  p nuvem
+
+
+
