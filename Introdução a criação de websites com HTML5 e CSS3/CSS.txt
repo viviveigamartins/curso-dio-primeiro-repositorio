@@ -1,0 +1,9 @@
+CSS: Linguagem de estilo
+
+Classe é precedida por um ponto final 
+e o ID é precedido por um # podendo ser usado apenas uma vez na página. 
+
+Box Model tem 04 areas margens bordas padding e conteudo
+
+
+

@@ -1,0 +1,9 @@
+<ul> ordem dos itens não é importante
+item 1
+item 2
+
+<ol> ordem dos itens são importante
+1. item 1
+2. item 3 
+
+<li> item da lista
